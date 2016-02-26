@@ -2,8 +2,8 @@
 Repository for our BIOL 419 Course Project
 
 Project Description:
-In this project we aim to analysze data for availability of healthcare professionals as well as the rates of various diseases and vaccination rates.
-Specifically we are searching for the presence of relationships between healthcare professional availibility and disease rates and vaccination rates. We wish to know whether doctor availibility is predictive of disease mortality rates and or rates of vaccinations.
+In this project we aim to analyze data for availability of healthcare professionals as well as the rates of various diseases and vaccination rates.
+Specifically we are searching for the presence of relationships between healthcare professional availability and disease rates and vaccination rates. We wish to know whether doctor availability is predictive of disease mortality rates and or rates of vaccinations.
 
 General Project Outline:
 1. import remaining data
@@ -14,7 +14,7 @@ General Project Outline:
 6. final paper write up
 
 Important Dates and Deadlines:
-1. Friday Mar. 4th: Project Ceck in
+1. Friday Mar. 4th: Project Check in
 2. _______________: Presentation
 3. _______________: Final Project Write Up
 
