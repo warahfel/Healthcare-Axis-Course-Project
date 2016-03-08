@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 % Imports the data on health workforce density by country and year per 1000
 WF = readtable('health_workforce.csv');%%changed to WF rather than T
@@ -21,3 +22,8 @@ ylabel 'Number of Countries'
 
 
 
+=======
+% Imports the data on health workforce numbers by country and year
+WF = readtable('health_workforce.xls');%%changed to WF rather than T
+M = readtable('measles.xls');%measles data by country
+>>>>>>> origin/warahfel-patch-1
