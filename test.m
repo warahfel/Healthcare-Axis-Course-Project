@@ -46,7 +46,18 @@ xlabel('Density of Physicians per 1000')
 
 %%code from http://www.mathworks.com/matlabcentral/answers/101869-can-hist-take-parameters-such-as-facecolor-and-edgecolor
 
+%%%Plot unsure about axes
+plot(dp1,'.')
+hold on
+plot(dp5,'o')
+plot(dp9,'x')
+plot(dp13,'+')
 
+
+legend('2001','2005','2009','2013')
+title('Density of Physcians by Year')
+ylabel('Number of Countries')
+xlabel('Density of Physicians per 1000')
 %%%%HIV Prevalence
 
 HIV = readtable('HIV.xls');
