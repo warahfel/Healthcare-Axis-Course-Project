@@ -33,10 +33,9 @@ h2=bar(x2,x2,'hist')
 h3=bar(x3,n3,'hist')
 h4=bar(x4,n4,'hist')
 
-
 set(h2,'facecolor','red')
-set(h3,'facecolor','green')
-set(h4,'facecolor','yellow')
+set(h3,'facecolor','red')
+set(h4,'facecolor','red')
 
 legend('2001','2005','2009','2013')
 title('Density of Physcians by Year')
@@ -44,7 +43,7 @@ ylabel('Number of Countries')
 xlabel('Density of Physicians per 1000')
 
 
-%%code from http://www.mathworks.com/matlabcentral/answers/101869-can-hist-take-parameters-such-as-facecolor-and-edgecolor
+
 
 
 %%%%HIV Prevalence
